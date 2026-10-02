@@ -1,0 +1,11 @@
+module.exports = {
+  creatorName: "Wanz",
+  apiTitle: "Wanz Api Hub",
+  webName: "Wanz Api",
+  favicon: "/views/logo.png",
+  logoIcon: "⚡",
+  logoIconUrl: "/views/logo.png",
+  dailyLimit: 500,
+  // Kategori yang dikunci (endpoint 403, tampil sebagai "(Terkunci)"). Kosongkan [] untuk membuka.
+  lockedCategories: []
+};
